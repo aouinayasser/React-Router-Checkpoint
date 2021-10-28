@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.list {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  width: 70%;
+  margin:auto;
+}
+.movieDesc{
+  margin-top: 20px;
+}
